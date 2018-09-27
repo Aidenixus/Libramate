@@ -1,0 +1,148 @@
+body {
+	 	   background-color: #00ccff;
+		   margin = 0;
+		   padding = 0;
+		   font-family: Helvetica;
+			}
+			
+			.b
+			{
+				background-color: #66ffcc;
+				position:fixed;
+		    	margin-bottom:0;
+		    	left:0%;
+		    	top:-100%;
+		    	width:100%;
+		    	height:117%;
+			}
+			
+			.header {
+				overflow: hidden;
+				position: fixed;
+		    	margin-bottom:0;
+		    	left:4%;
+		    	top:5%;
+		    	width:20%;
+		    	font-family: "Helvetica";
+		    	font-weight: bold;
+		    	color: white;
+		    	font-size:25px;
+		    	-webkit-text-stroke-width: 1px;
+   				-webkit-text-stroke-color: black;
+			}
+			
+			a
+			{
+				text-decoration: none;
+				color: inherit;
+				font-family: inherit;
+			}
+			
+			a:visited {
+			font-family: "Helvetica";
+		    	font-weight: bold;
+		    	color: inherit;
+		    	font-size:25px;
+		    	-webkit-text-stroke-width: 1px;
+   				-webkit-text-stroke-color: black;	
+		}
+			
+			.search_bar input[type="text"]
+			{
+				overflow: hidden;
+				position: fixed;
+		    	left:20%;
+		    	top:5%;
+		    	width:50%;
+		    	font-family: "Helvetica";
+		    	font-weight: light;
+		    	font-size: 20px;
+		    	background-color:white;
+		    	color:grey;
+		    	/*opacity:0.6;*/
+			}
+			 .search_bar input[type="submit"]
+			{ /*need to delete this button*/
+				visibility: hidden;
+				overflow: hidden;
+				position: fixed;
+				background-color: #00ccff;
+		    	left:71%;
+		    	top:5%;
+		    	width:10%;
+		    	font-family: "Helvetica";
+		    	font-weight: light;
+		    	font-size: 13px;
+		    	background-color:white;
+		    	color:grey;
+		    	/*opacity:0.6;*/
+			} 
+			 .selections
+			{
+				overflow: hidden;
+				position: fixed;
+		    	left:72%;
+		    	top:4%;
+		    	width:40%;
+		    	font-family: "Helvetica";
+		    	font-weight: bold;
+		    	font-size: 12px;
+		    	background-color: #66ffcc;
+		    	color:black;
+		    	/*  opacity:0.6;*/
+			}
+			
+			.profilep{
+			overflow: hidden;
+				position: fixed;
+		    	left:68%;
+		    	top:6%;
+			
+			}
+			.profilep img
+			{
+			width:6%;
+		    	height:auto;
+			}
+			
+			.gif
+			{
+				overflow: hidden;
+				position: fixed;
+		    	left:68%;
+		    	top:6%;
+			}
+			.gif img
+			{
+				width:6%;
+		    	height:auto;
+			}
+			
+			#image
+			{
+			width:6%;
+		    	height:auto;
+			}
+			
+			#content
+			{
+			position:absolute;
+		    	left:3%;
+		    	top:20%;
+		    	width:17vw;
+			}
+			
+			#content img
+			{
+				width: 17vw;
+				height: 26vw;
+			}
+			td{
+			text-align: center;
+			padding: 10px;
+			width: 121px;
+			}
+.bigger_font{
+	font-size: 11px;
+}
+		
