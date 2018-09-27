@@ -1,2 +1,2 @@
 # Google-Library
-implemented in Java. With a signup and login function, this project utilizes google APIs to implement a library that allows its user to search for all books provided by Google Library.
+implemented in Java. With a sign-up and log-in function, it is a project that provides various search methods for any and all books provided in Google Books.
